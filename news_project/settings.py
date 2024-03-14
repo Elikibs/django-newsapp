@@ -139,5 +139,12 @@ LOGOUT_REDIRECT_URL = 'home'
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
 CRISPY_TEMPLATE_PACK = "bootstrap5"
 
-# Password change emailing feature
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# Password change emailing feature >> SMTP 
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_HOST_USER = "elishakibet67@gmail.com"
+EMAIL_HOST_PASSWORD = "Lishlish123"
+EMAIL_AUTHENTICATION = "yes"
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_USE_SSL = False
