@@ -1,3 +1,3 @@
 # News app
 
-## Project
+## Project setup
