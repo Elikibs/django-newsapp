@@ -2,4 +2,4 @@
 
 ## Project setup
 
-## Authored
+## Author
