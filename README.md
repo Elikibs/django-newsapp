@@ -3,4 +3,4 @@
 ## Project setup
 
 ## Author
-Authored by Elisha 
+Authored by Elisha Kibet
