@@ -3,4 +3,4 @@
 ## Project setup
 
 ## Author
-Authored 
+Authored by 
